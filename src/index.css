@@ -1,0 +1,15 @@
+
+:root {
+  background: black;
+}
+
+
+
+*{
+  border: none;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  color: inherit;
+}
